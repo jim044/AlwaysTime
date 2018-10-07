@@ -1,0 +1,16 @@
+keytool -exportcert -list -v \-alias androiddebugkey -keystore %USERPROFILE%\.android\debug.keystore
+
+
+
+
+
+
+
+
+
+
+ MD5:  C3:A7:53:48:A6:B3:ED:9D:BC:EF:4E:4A:60:95:FE:BF
+         SHA1 : C9:00:70:E8:CC:E3:ED:BE:99:3C:6C:F8:E1:1D:9F:2B:0F:88:86:2E
+         SHA256 : C0:10:D4:6C:4B:7B:68:2E:F6:0F:C9:D4:E6:F1:9F:3F:FE:4E:F2:3E:6A:35:2A:4C:96:95:C5:08:78:A7:CA:5F
+         Nom de l'algorithme de signature : SHA1withRSA
+         Version : 1
